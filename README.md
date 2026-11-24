@@ -1,6 +1,7 @@
-# Cars Dealership Full-Stack Capstone Project
+# Cars Dealership — Full-Stack Capstone Project
 
-- **Repository Name:** fullstack_developer_capstone
-- **Project Name:** Cars Dealership Full-Stack Capstone Project
+## Project Name
+**Cars Dealership Web Application** (National Car Retailer Dealership & Review Portal)
 
-A full-stack web application for Cars Dealership, a national car retailer in the U.S., built with React, Django, Flask, Node.js, MongoDB, and SQLite.
+## Overview
+A full-stack web application built with **Django**, **React**, **Node.js/Express**, **Flask (Sentiment Analysis)**, **MongoDB**, and **SQLite**, containerized with **Docker** and deployed on **Kubernetes / IBM Cloud Code Engine** with **GitHub Actions CI/CD**.
